@@ -1,3 +1,5 @@
+origin source : https://github.com/leighhalliday/mobx2020
+
 # MobX & React in 2020
 
 This is a refresh of my original MobX video showing the changes and how to use MobX alongside of hooks in your functional components.
